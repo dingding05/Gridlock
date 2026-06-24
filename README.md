@@ -38,7 +38,7 @@ The application features a modern, tech-focused geometric visual language design
 ---
 
 ## 📦 Local Setup & Execution
-
+CURRENTLY FOR ANDROID ONLY
 To clone the project repository and run the executable app locally:
 
 1. Clone the repository:
